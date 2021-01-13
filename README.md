@@ -8,8 +8,10 @@ Currently automation code can be run on Chrome Browser version 87 and Firefox br
 Run Instrcutions:
 
 To Run Test as executable jar file:
-1. Download the zip file.
-2. Double click on executable jar file.
+1. Download the CucumberAutomationFramework-0.0.1-SNAPSHOT.zip file.
+2. Double click on CucumberAutomationFramework-0.0.1-SNAPSHOT.jar executable jar file.
+3. Check TestNG Results once execution is completed to see execution reports.
+4. TestNG reports, Fail report, Pass report and emailable reports can be found in CucumberAutomationFramework->/test-output/
 
 To Run From Command Promt as maven test:
 
