@@ -1,0 +1,4 @@
+stepDefinations\VerivoxUserTariffVerifyStepDef.class
+Utility\BrowserUtility.class
+cucumberOptions\TestRunner.class
+Utility\PropertiesFileReader.class

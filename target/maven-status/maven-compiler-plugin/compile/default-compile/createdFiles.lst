@@ -1,0 +1,5 @@
+com\automation\CucumberAutomationFramework\App.class
+com\testautomation\PageObjects\DSLCalculatorPage.class
+com\testautomation\PageObjects\TariffOfferDetailPage.class
+com\testautomation\PageObjects\TariffListPage.class
+com\testautomation\PageObjects\VerivoxHomePage.class

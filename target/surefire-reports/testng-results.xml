@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40960" started-at="2021-01-13T00:13:51Z" finished-at="2021-01-13T00:14:32Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@5a61f5df]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Validating User login" duration-ms="40960" started-at="2021-01-13T00:13:51Z" finished-at="2021-01-13T00:14:32Z">
+      <class name="cucumberOptions.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberOptions.TestRunner@5a61f5df]" name="setUpClass" is-config="true" duration-ms="326" started-at="2021-01-13T01:13:51Z" finished-at="2021-01-13T01:13:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@5a61f5df]" name="feature" duration-ms="40521" started-at="2021-01-13T01:13:51Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-01-13T01:14:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To Select best Internet tariff for Verivox user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestRunner@5a61f5df]" name="tearDownClass" is-config="true" duration-ms="3" started-at="2021-01-13T01:14:32Z" finished-at="2021-01-13T01:14:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestRunner -->
+    </test> <!-- Validating User login -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+01:14:09.271 [main] INFO  Utility.BrowserUtility -  i_should_see_only_the_first_tariffs_displayed method is passed 
+01:14:09.406 [main] INFO  Utility.BrowserUtility -  i_click_on_the_button_labeled_weitere_Tarife_laden method is passed 
+01:14:12.171 [main] INFO  Utility.BrowserUtility - Number of tariffs displayed in the current page for Ermittelte Tarife section are:- 40
+01:14:12.195 [main] INFO  Utility.BrowserUtility -  i_should_see_the_next_tariffs_displayed method is passed 
+01:14:16.268 [main] INFO  Utility.BrowserUtility - Total number of available tariffs remianing in the Ermittelte Tarife section are:- 10
+01:14:16.509 [main] INFO  Utility.BrowserUtility - Final weitere Tarife laden button displays the expected number of tariffs remaining
+01:14:18.405 [main] INFO  Utility.BrowserUtility - Total number of available tariffs remianing in the Ermittelte Tarife section are:- 0
+01:14:18.462 [main] INFO  Utility.BrowserUtility - The total number of tariffs displayed matches the total listed in the Ermittelte Tarife section
+01:14:28.498 [main] INFO  Utility.BrowserUtility - Weitere Tarife laden button is no longer displayed when all the tariffs are visible 
+01:14:28.498 [main] INFO  Utility.BrowserUtility -  i_can_continue_to_load_any_additional_tariffs_until_all_tariffs_have_been_displayed method is passed 
+01:14:29.701 [main] INFO  Utility.BrowserUtility -  i_click_on_any_Zum_Angebot_button_to_select_a_tariff_offer method is passed 
+01:14:30.451 [main] INFO  Utility.BrowserUtility - Current Window State       : complete
+01:14:30.480 [main] INFO  Utility.BrowserUtility - Current Window State       : complete
+01:14:30.508 [main] INFO  Utility.BrowserUtility - Current Window State       : complete
+01:14:30.543 [main] INFO  Utility.BrowserUtility - Current Window State       : complete
+01:14:30.579 [main] INFO  Utility.BrowserUtility - Current Window State       : complete
+01:14:30.773 [main] INFO  Utility.BrowserUtility - Current Window State       : complete
+01:14:31.427 [main] INFO  Utility.BrowserUtility -  i_should_see_the_corresponding_offer_page_for_the_selected_tariff method is passed 
+01:14:32.431 [main] INFO  Utility.BrowserUtility -  All Test cases passed and the browser is closed 
