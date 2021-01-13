@@ -7,6 +7,10 @@ Currently automation code can be run on Chrome Browser version 87 and Firefox br
 
 Run Instrcutions:
 
+To Run Test as executable jar file:
+1. Download the zip file.
+2. Double click on executable jar file.
+
 To Run From Command Promt as maven test:
 
 To execute the project, download project.
